@@ -1,0 +1,6 @@
+QLabel{
+	background-color: rgba(80,80,80,120);
+}
+QLabel:hover{
+    background-color: rgba(120,120,120,120);
+}
