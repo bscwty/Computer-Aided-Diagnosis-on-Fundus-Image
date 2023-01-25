@@ -11,7 +11,7 @@ To start the interface, run:
 
 ## Classification
 
-1. A multi-class classification task using Resnet-50.
+1. A multi-label classification task using Resnet-50.
 2. The trained dataset is: [KaggleDR+](https://ieeexplore.ieee.org/abstract/document/9674886) with 8 major classes and 53 minor classes.
 
 
